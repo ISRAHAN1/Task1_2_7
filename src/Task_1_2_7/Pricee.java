@@ -1,3 +1,5 @@
+package Task_1_2_7;
+
 public class Pricee {
     public static void main(String[] args) {
 
