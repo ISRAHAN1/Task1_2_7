@@ -2,9 +2,9 @@ package Task_1_2_8;
 import java.lang.Math;
 public class A12 {
             public static  void main(String[] args) {
-               double a=3;
-               double b=2;
-               double c=5;
+               double a=3.4;
+               double b=3.4;
+               double c=6.8;
                boolean b1=a+b<c;
                boolean b2=a+b>c;
                boolean b3=a+b==c;
