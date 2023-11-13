@@ -1,4 +1,4 @@
-package Task_1_2_8;
+package Task_1_2_10;
 import java.lang.Math;
 public class A12 {
             public static  void main(String[] args) {
