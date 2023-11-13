@@ -1,3 +1,4 @@
+package Task_1_2_6;
 
 public class MonitorsCounter {
     public static void main(String[] args) {
