@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/Task 1.2.6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 1.2.6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonitorsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_7/Pricee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_7/Pricee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1_2_8/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_8/A12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699781453909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1699880071137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699880071137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
