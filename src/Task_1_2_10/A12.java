@@ -5,16 +5,12 @@ public class A12 {
                double a=3.4;
                double b=3.4;
                double c=6.8;
-               boolean b1=a+b<c;
-               boolean b2=a+b>c;
-               boolean b3=a+b==c;
-               double rezult = doubleExpression(a, b, c);
+               boolean b1=a+b==c;
+               double rez = doubleExpression(a, b, c);
                System.out.println("rez-" + b1);
-               System.out.println("rez-" + b2);
-               System.out.println("rez-" + b3);
             }
             public static double  doubleExpression(double a, double b, double c) {
-                return a+b;
+                return c;
             }
 
         }

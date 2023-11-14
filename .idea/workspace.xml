@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_12/Okr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_12/Okr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_2_13/Okr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_13/Okr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699893856815</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1699958142978</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699958142978</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

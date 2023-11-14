@@ -6,15 +6,14 @@ public class Okr {
         Scanner in = new Scanner(System.in);
         System.out.print("square-");
         int area = in.nextInt();
-        double radius = (Math.sqrt((area)/ Math.PI));
         double ros= calcCircleRadius( area);
-        System.out.printf("square-%d radius-%.3f",+area,radius);
+        System.out.printf("square-%d radius-%.3f",+area,ros);
 
 
 
     }
     public static double calcCircleRadius(double area) {
-        return area;
+        return (Math.sqrt((area)/ Math.PI));
     }
 
 }
