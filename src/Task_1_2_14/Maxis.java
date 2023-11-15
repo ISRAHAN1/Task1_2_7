@@ -1,19 +1,21 @@
 package Task_1_2_14;
-
+import java.lang.Math;
 import java.math.BigInteger;
 
 public class Maxis {
     public static void main(String[]args){
-        BigInteger a=BigInteger.valueOf(7000);
-        long a1= a.longValue();
-        BigInteger b= BigInteger.valueOf(80000);
-        long b1= b.longValue();
-        double rez= maxLongSqr(a1,b1);
-        System.out.println("kvadrat koren max znachenia:"+rez);
+        BigInteger Maxlong =BigInteger.valueOf(7000);
+        long firstz=Maxlong.longValue();
+        BigInteger square=BigInteger.valueOf(3000);
+        long secondz= square.longValue();
+        long rezmaxsis= maxLongSqr(firstz,secondz);
+        System.out.println("kvadrat max znachenia:"+rezmaxsis);
+
 
     }
-    public static double  maxLongSqr(double a1,double b1){
-        return (Math.sqrt(Math.max(a1,b1)));
+    public static long maxLongSqr(long firstz,long secondz){
+
+        return (Math.max(firstz*firstz,secondz*secondz));
 
     }
 }
