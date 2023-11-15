@@ -9,8 +9,6 @@ public class Okr {
         double ros= calcCircleRadius( area);
         System.out.printf("square-%.0f radius-%.3f",+area,ros);
 
-
-
     }
     public static double calcCircleRadius(double area) {
         return (Math.sqrt((area)/ Math.PI));
