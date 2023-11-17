@@ -6,7 +6,7 @@ public class Maxis {
     public static void main(String[]args){
         BigInteger Maxlong =BigInteger.valueOf(7000);
         long firstz=Maxlong.longValue();
-        BigInteger square=BigInteger.valueOf(8000);
+        BigInteger square=BigInteger.valueOf(800000000);
         long secondz= square.longValue();
         long rezmaxsis= maxLongSqr(firstz,secondz);
         System.out.println("kvadrat max znachenia:"+rezmaxsis);
