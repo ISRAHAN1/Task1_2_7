@@ -7,9 +7,10 @@ public class Age {
         float Age2=24.5f;
         byte age2=(byte)Math.round(Age2);
         byte rezultat=getAgeDiff(age1,age2);
-        System.out.println("rezultat:"+rezultat);
+        System.out.println("raznica vosraste:"+rezultat);
     }
     public static byte getAgeDiff(byte age1, byte age2) {
+
         return (byte) (Math.ceil(age1)-Math.round(age2));
     }
 }
