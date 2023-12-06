@@ -6,52 +6,20 @@ public class SWITCH {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите день  недели:");
-        String weekday = in.next();
-        boolean rez = isWeekend(weekday);
-        System.out.println("reZUlTaT-" +rez);
+        String weekday = in.nextLine();
+        System.out.print(isWeekend(weekday));
     }
+    public static String isWeekend(String weekday) {
+        String aws= String.valueOf(weekday);
+        switch (weekday){
+            case "Monday", "Tuesday","Wednesday","Thursday","Friday":
+                System.out.println(false);
+                break;
 
-    public static boolean isWeekend(String weekday) {
-
-            switch (weekday) {
-                case "Monday":
-                    System.out.println("день работы-1");
-                    break;
-
-                case "Tuesday":
-                    boolean Tuesday=false;
-                    System.out.println("день работы-2"+Tuesday);
-                    break;
-
-                case "Wednesday":
-                    boolean Wednesday=false;
-                    System.out.println("день работы-3"+Wednesday);
-                    break;
-
-                case "Thursday":
-                    boolean Thursday=false;
-                    System.out.println("день работы-4"+Thursday);
-                    break;
-
-                case " Friday":
-                    boolean Friday=false;
-                    System.out.println("день работы-5"+Friday);
-                    break;
-
-                case "Saturday":
-                    boolean Saturday=true;
-                    System.out.println(Saturday);
-                    break;
-
-                case "Sunday":
-                    boolean Sunday=true;
-                    System.out.println("Выходгой"+Sunday);
-                    break;
-
-                default:
-                    System.out.println("net takOvo");
-                    break;
-            }
-      return true;
-    }
+            case "Saturday","Sunday":
+                System.out.println(true);
+                break;
+        }
+        return aws;
+}
 }

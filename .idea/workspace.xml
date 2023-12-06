@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SCANNERRS/DOIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_3_8/Ispower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_4_8/Rekysia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_4_9/Group.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_14/Maxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_14/Maxis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_6/MonitorsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_6/MonitorsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_10/Switchcase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_11/Next.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_2/Bukva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_2/Bukva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_8/Revice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_8/Revice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_9/IFELSE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701096124819</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1701851657428</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701851657428</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,5 +307,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="hashIsZero" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
