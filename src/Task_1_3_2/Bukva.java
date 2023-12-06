@@ -8,6 +8,6 @@ public class Bukva{
 
     }
     public static char CharExppression(int a ){
-        return '\\'+'a';
+        return (char)(a);
     }
 }

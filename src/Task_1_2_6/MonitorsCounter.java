@@ -7,7 +7,6 @@ public class MonitorsCounter {
         System.out.println("rezultat="+rezult);
 
     }
-
     public static int drawIsMonitorsCounter(int monitors, int programmers) {
         return  monitors % programmers;
     }
