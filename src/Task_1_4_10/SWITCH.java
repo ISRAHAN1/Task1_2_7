@@ -9,11 +9,11 @@ public class SWITCH {
         String weekday = in.nextLine();
         System.out.print(isWeekend(weekday));
     }
-    public static String isWeekend(String weekday) {
+    public static boolean isWeekend(String weekday) {
         String aws= String.valueOf(weekday);
         switch (weekday){
             case "Monday", "Tuesday","Wednesday","Thursday","Friday":
-                System.out.println(false);
+                System.out.println(weekday);
                 break;
             case "Saturday","Sunday":
                 System.out.println(true);
