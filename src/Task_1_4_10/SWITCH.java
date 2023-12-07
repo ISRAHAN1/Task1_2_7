@@ -19,6 +19,6 @@ public class SWITCH {
                 System.out.println(true);
                 break;
         }
-        return aws;
+        return true;
 }
 }
