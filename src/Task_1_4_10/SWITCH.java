@@ -15,7 +15,6 @@ public class SWITCH {
             case "Monday", "Tuesday","Wednesday","Thursday","Friday":
                 System.out.println(false);
                 break;
-
             case "Saturday","Sunday":
                 System.out.println(true);
                 break;
