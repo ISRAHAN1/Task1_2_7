@@ -10,9 +10,13 @@ public class IFELSE {
     }
 
     public static boolean isWeekend(String weekday) {
+        boolean a=false;
+        if("Sunday"=="Saturday"){
+            System.out.println(true);
+        }
 
 
-        return true;
+        return false;
     }
 }
 
