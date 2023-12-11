@@ -8,9 +8,7 @@ public class Rekysia {
         System.out.println("Вводите число");
         int value= in.nextInt();
         System.out.println(function(value));
-
     }
-
     public static BigInteger function(int value) {
         BigInteger result=BigInteger.valueOf(1);
         if (value==1||value==0){
