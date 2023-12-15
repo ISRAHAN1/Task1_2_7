@@ -1,11 +1,11 @@
 package Task_1_2_6;
+import java.util.Scanner;
 public class MonitorsCounter {
     public static void main(String[] args) {
-        int monitors=70;
-        int programmers=30;
-        int rezult=drawIsMonitorsCounter( monitors,programmers);
-        System.out.println("rezultat="+rezult);
-
+        Scanner in=new Scanner(System.in);
+        int monitors=in.nextInt();
+        int programmers=in.nextInt();
+        System.out.println(drawIsMonitorsCounter( monitors,programmers));
     }
     public static int drawIsMonitorsCounter(int monitors, int programmers) {
         return  monitors % programmers;

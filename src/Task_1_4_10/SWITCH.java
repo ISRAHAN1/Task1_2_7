@@ -8,9 +8,10 @@ public class SWITCH {
         System.out.println(isWeekend((weekday)));
     }
     public static boolean isWeekend(String weekday) {
-        boolean result=true;
+        boolean result;
         switch (weekday) {
             case "Sunday","Saturday":
+                result=true;
                 break;
             default:
                  result=false;

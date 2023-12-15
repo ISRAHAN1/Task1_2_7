@@ -4,8 +4,7 @@ public class A12 {
         byte a=12;
         byte b=12;
         byte c=24;
-        boolean rezult=doubleExpression(a,b,c);
-        System.out.println("rez:"+rezult);
+        System.out.println(doubleExpression(a,b,c));
         }
     public static boolean doubleExpression(double a, double b, double c) {
         return  a+b-c<1E-4;

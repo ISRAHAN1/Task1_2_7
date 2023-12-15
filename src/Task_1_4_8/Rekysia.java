@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class Rekysia {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("Вводите число");
+        System.out.println("Enter a number");
         int value= in.nextInt();
         System.out.println(function(value));
     }

@@ -1,6 +1,6 @@
 package Task_1_3_8;
 
-public class Ispower {
+public class IspoWer {
     public static void main(String[] args) {
         System.out.print("0: ");
         System.out.println(isPowerOfTwo(0));
@@ -17,8 +17,8 @@ public class Ispower {
         System.out.print("1024: ");
         System.out.println(isPowerOfTwo(1024));
     }
-    public static boolean isPowerOfTwo(int rezult) {
-        return (Integer.bitCount(Math.abs(rezult)))==1;
+    public static boolean isPowerOfTwo(int result) {
+        return (Integer.bitCount(Math.abs(result)))==1;
 
     }
 }

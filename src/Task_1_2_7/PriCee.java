@@ -1,16 +1,12 @@
 package Task_1_2_7;
 
-public class Pricee {
+public class PriCee {
     public static void main(String[] args) {
-
         double price = 40;
         int count = 4;
-        double rezult = priceCalculation(price, count);
-
-        System.out.println("Стоимость-" + rezult);
+        System.out.println(priceCalculation(price, count));
     }
         public static double priceCalculation(double price, int count) {
-
             return price * count;
 
 
