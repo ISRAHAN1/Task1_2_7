@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_3/Masiv.java" afterDir="false" />
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="im change veriables.">
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_4_/Vos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_5_/Ch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_6_/Raz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_6/MonitorsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_6/MonitorsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_7/Pricee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_7/PriCee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_2/Bukva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_2/Bukva.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1_3_3/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_3/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_8/Ispower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_8/IspoWer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_11_/IFELSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_11_/IFELSE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1_4_12_/TerN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_12_/TerN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_8/Rekysia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_8/Rekysia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_4_8/Rekysia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_8/ReK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_5_3/Masiv.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702301703254</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1702627188589</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1702627188589</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

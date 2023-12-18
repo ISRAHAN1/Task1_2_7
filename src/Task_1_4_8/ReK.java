@@ -2,10 +2,10 @@ package Task_1_4_8;
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Rekysia {
+public class ReK {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter a number:");
         int value= in.nextInt();
         System.out.println(function(value));
     }
