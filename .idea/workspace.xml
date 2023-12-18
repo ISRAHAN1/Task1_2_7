@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="im change veriables.">
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_4_/Vos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_5_/Ch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_6_/Raz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" afterDir="false" />
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_3/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_3/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_12_/TerN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_12_/TerN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_8/Rekysia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_8/ReK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_3/Masiv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702627188589</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1702897372036</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1702897372036</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
