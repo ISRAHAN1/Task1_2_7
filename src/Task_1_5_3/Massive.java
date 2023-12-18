@@ -8,10 +8,13 @@ public class Massive {
 
 
     public static void printArray(int[] numbers) {
-        System.out.print(        "["         );
+        System.out.print(        "["        );
         for (int i=0;i<numbers.length;i++ ) {
-            System.out.print(","+numbers[i]);
+            System.out.print(numbers[i]);
+            System.out.print(",");
         }
-        System.out.print(        "]"         );
+        System.out.print(         "]"       );
+
+
     }
 }

@@ -18,15 +18,13 @@ public class DOIT {
             } else if (answer > value) {
                 System.out.println("Не угадали, ваше число больше загаданного");
             }
-            count++;
-            if (count > 15) {
-                System.out.println("Игра закончена");
+            if (count > 14) {
+                System.out.println("Игра завершина");
                 break;
             }
+            count++;
         }
         while (answer != value);
-
         System.out.println("ура вы выиграли");
+        }
     }
-
-}
