@@ -7,7 +7,7 @@ public class Ch {
         System.out.println(Arrays.toString(a));
     }
     public static int[] getArrayMiddle(int[] numbers) {
-        int[] result = new int[numbers.length-2 ];
+        int[] result = new int[2];
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] % 2 == 0) {
                 result[i-1]=numbers[i];
