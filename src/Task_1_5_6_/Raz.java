@@ -12,9 +12,6 @@ public class Raz {
         int[] result = new int[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
             result[numbers.length-1-i] = numbers[i];
-        }
-        for (int i = 0; i < numbers.length; i++) {
-            numbers[i] = result[i];
             }
         return result;
     }
