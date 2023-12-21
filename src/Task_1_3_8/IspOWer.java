@@ -1,6 +1,6 @@
 package Task_1_3_8;
 
-public class IspoWer {
+public class IspOWer {
     public static void main(String[] args) {
         System.out.print("0: ");
         System.out.println(isPowerOfTwo(0));

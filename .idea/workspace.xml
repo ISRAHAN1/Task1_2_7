@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_10_/SerM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_11_/PRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_12_/Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_5_9_/Arr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_4_/Vos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_4_/Vos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_3_2/Bukva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_2/BukVa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_3_8/IspoWer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_8/IspOWer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1_5_6_/Raz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_6_/Raz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bukva" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_1_3_2.Bukva" />
+    <configuration name="BukVa" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1_3_2.BukVa" />
       <module name="Task 1.2.7" />
       <extension name="coverage">
         <pattern>
@@ -377,7 +383,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702918310328</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1702981960029</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702981960029</updated>
+    </task>
+    <task id="LOCAL-00033" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1702982079288</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702982079288</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

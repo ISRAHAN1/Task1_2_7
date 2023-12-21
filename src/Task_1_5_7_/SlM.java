@@ -1,22 +1,29 @@
 package Task_1_5_7_;
 
+import java.util.Arrays;
+
 public class SlM {
     public static void main(String[] args) {
-        int[]numbers={1, 3, 5, 6, 9, 11, 21};
-        fillArray(numbers);
-
+        int[] firstArray = new int[]{1, 3, 7, 5};
+        int[] secondArray = new int[]{8, 4, 2, 4};
+        int[] a = mergeAndSort(firstArray, secondArray);
+        System.out.print(Arrays.toString(a));
     }
-
-    public static void fillArray(int[] numbers) {
-        int length;
-        length = numbers.length;
-        for (int i = 0; i < numbers.length - 1; i++) {
-            if (numbers[i] <= numbers[i + 1]) {
-                length += numbers[i + 1] - numbers[i];
-            } else if (numbers[i + 1] < numbers[i]) {
-                length += numbers[i + 1] - numbers[i];
-                System.out.println(length);
+    public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {
+        int[] result = new int[firstArray.length + secondArray.length];
+        for (int i = 0; i < firstArray.length; i++) {
+            result[i] = firstArray[i];
+            for (int j = 0; j < secondArray.length; j++) {
+                if(firstArray[i]<secondArray[j] || firstArray[i]>secondArray[j]) {
+                    result[j+4]=secondArray[j];
+                }
             }
         }
+        return result;
     }
 }
+
+
+
+
+
