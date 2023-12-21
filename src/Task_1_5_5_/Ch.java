@@ -7,14 +7,19 @@ public class Ch {
         System.out.println(Arrays.toString(a));
     }
     public static int[] getArrayMiddle(int[] numbers) {
-        int[] result = new int[numbers.length];
-        for (int i = 0; i < numbers.length; i++) {
-            if (numbers[i] % 2 == 0) {
-                result[i-1]=numbers[i];
-            }else if(numbers[i]>4){
-                result[i-1]=numbers[i];
+        if (numbers.length > 2) {
+            if (numbers.length % 2 == 0) {
+                int[] arr = new int[2];
+                arr[0] = numbers[numbers.length / 2 - 1];
+                arr[1] = numbers[numbers.length / 2];
+                return arr;
+            } else {
+                int[] arr1 = new int[1];
+                arr1[0] = numbers[numbers.length / 2];
+                return arr1;
             }
+        } else {
+            return numbers;
         }
-        return result;
     }
 }
