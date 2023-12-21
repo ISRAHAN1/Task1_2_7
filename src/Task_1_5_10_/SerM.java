@@ -13,7 +13,7 @@ public class SerM {
         for(int i=0;i<numbersCopy.length;i++){
             if(numbersCopy[i]%2==0){
                 result[i-1]=numbersCopy[i];
-            }else if(numbersCopy[i]>=5){
+            }else if(numbersCopy[i]>1){
                 result[i-1]=numbers[i];
             }
         }
