@@ -7,11 +7,11 @@ public class Ch {
         System.out.println(Arrays.toString(a));
     }
     public static int[] getArrayMiddle(int[] numbers) {
-        int[] result = new int[2];
+        int[] result = new int[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] % 2 == 0) {
                 result[i-1]=numbers[i];
-            }else if(numbers[i]>=4 && numbers[i]<17){
+            }else if(numbers[i]>4){
                 result[i-1]=numbers[i];
             }
         }

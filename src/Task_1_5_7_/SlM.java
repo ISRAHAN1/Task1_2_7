@@ -7,6 +7,7 @@ public class SlM {
         int[] firstArray = new int[]{1, 3, 7, 5};
         int[] secondArray = new int[]{8, 4, 2, 4};
         int[] a = mergeAndSort(firstArray, secondArray);
+        Arrays.sort(a);
         System.out.print(Arrays.toString(a));
     }
     public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {

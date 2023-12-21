@@ -13,8 +13,8 @@ public class Vos {
 
     }
     public static int[] getSubArrayBetween(int[] numbers, int start, int end) {
-        int []result=new int[3];
-        for(int i=0;i<numbers.length;i++){
+        int []result=new int[numbers.length-4];
+        for(int i=1;i<numbers.length;i++){
             if(numbers[i]>=start && numbers[i]<=end){
                 result[i-2]=numbers[i];
             }

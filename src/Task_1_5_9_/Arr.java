@@ -10,11 +10,10 @@ public class Arr {
 
 
     public static void printArray(int[] numbers) {
-        int[]result=new int[9];
-        for (int i=0;i<numbers.length;i++){
-            result[i]=numbers[i];
+        System.out.print(Arrays.toString(numbers));
+
         }
-        System.out.print(Arrays.toString(result));
+
     }
 
-}
+

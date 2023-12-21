@@ -9,7 +9,7 @@ public class Raz {
         System.out.println(Arrays.toString(a));
     }
     public static int[] inverseArray(int[] numbers) {
-        int[] result = new int[4];
+        int[] result = new int[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
             result[numbers.length-1-i] = numbers[i];
             }
