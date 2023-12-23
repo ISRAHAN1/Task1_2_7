@@ -9,20 +9,18 @@ public class SlM {
         int[] a = mergeAndSort(firstArray, secondArray);
         System.out.print(Arrays.toString(a));
     }
+
     public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {
         int[] result = new int[firstArray.length + secondArray.length];
-        for (int i = 0; i < firstArray.length; i++) {
-            result[i] = firstArray[i];
-            for (int j = 0; j < secondArray.length; j++) {
-                if(firstArray[i]<secondArray[j] || firstArray[i]>secondArray[j]) {
-                    result[j+4]=secondArray[j];
-                }
+        for (int i = result.length - 1; i > 0; i--) {
+            for (int j = 0; j < i; j++) {
+
+                return result;
             }
         }
         return result;
     }
 }
-
 
 
 
