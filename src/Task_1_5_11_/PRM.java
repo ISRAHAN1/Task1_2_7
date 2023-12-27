@@ -9,12 +9,6 @@ public class PRM {
             System.out.print(Arrays.toString(res));
         }
     public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {
-            if(firstArray==null){
-                return secondArray;
-            }
-            if(secondArray==null){
-                return firstArray;
-            }
             int[]result=new int[firstArray.length+secondArray.length];
 
             System.arraycopy(firstArray, 0, result, 0, firstArray.length);
