@@ -12,20 +12,23 @@ public class Dif {
             res = 1;
         }
     }
-
     public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {
         int[] result = new int[firstArray.length + secondArray.length];
         for (int i = 0; i < firstArray.length; i++) {
             for (int j = 0; j < secondArray.length; j++) {
                 result[i] = firstArray[i];
                 result[firstArray.length + j] = secondArray[j];
-
-                if (result[i + 1] < result[firstArray.length + j]) {
-                    int k = result[i + 1];
-                    result[i + 1] = result[firstArray.length + j];
-                    result[firstArray.length + j] = k;
+                }
+                }
+        for (int c=0;c<result.length;c++){
+            for (int k=0;k<result.length-c-1;k++){
+                if(result[k]>result[k+1]){
+                    int n=result[k];
+                    result[k]=result[k+1];
+                    result[k+1]=n;
                 }
             }
+
         }
         return result;
     }
