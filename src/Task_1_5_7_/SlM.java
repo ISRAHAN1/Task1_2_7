@@ -12,21 +12,23 @@ public class SlM {
             res = 1;
         }
     }
-
     public static int[] mergeAndSort(int[] firstArray, int[] secondArray) {
+        int f=0;
         int[] result = new int[firstArray.length + secondArray.length];
         for (int i = 0; i < firstArray.length; i++) {
-            for (int j = 0; j < secondArray.length; j++) {
-                result[i] = firstArray[i];
-                result[firstArray.length + j] = secondArray[j];
-            }
+            result[f++] = firstArray[i];
         }
+            for (int j = 0; j < secondArray.length; j++) {
+                result[f++] = secondArray[j];
+
+            }
+
         for (int c = 0; c < result.length; c++) {
             for (int k = 0; k < result.length - c - 1; k++) {
-                if (result[k] > result[k + 1]) {
-                    int n = result[k];
-                    result[k] = result[k + 1];
-                    result[k + 1] = n;
+                if(result[k+1]<result[k]){
+                    int n=result[k];
+                    result[k]=result[k+1];
+                    result[k+1]=n;
                 }
             }
         }
