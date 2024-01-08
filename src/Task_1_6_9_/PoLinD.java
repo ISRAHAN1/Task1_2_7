@@ -7,6 +7,6 @@ public class PoLinD {
     }
     public static boolean isPalindrome(String text) {
         StringBuilder sb=new StringBuilder((text.replaceAll("[^a-zA-Z0-9]", "").toLowerCase()));
-        return  sb.toString().equals(sb.reverse().toString().toString());
+        return  sb.toString().equalsIgnoreCase(sb.reverse().toString());
     }
     }
