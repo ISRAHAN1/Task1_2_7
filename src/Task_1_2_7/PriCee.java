@@ -1,5 +1,4 @@
 package Task_1_2_7;
-
 public class PriCee {
     public static void main(String[] args) {
         double price = 40;

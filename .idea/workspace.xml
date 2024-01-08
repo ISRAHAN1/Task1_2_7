@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Task_1_6_9_/PoLinD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_2_7/PriCee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_2_7/PriCee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_3_2/BukVa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_3_2/BukVa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_1_5_10_/SerM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_5_10_/SerM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_1_6_10_/Dif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_1_6_10_/Dif.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -513,11 +516,6 @@
           <url>file://$PROJECT_DIR$/src/Okr.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task_1_5_5_/Ch.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Task_1_5_4_/Vos.java</url>
