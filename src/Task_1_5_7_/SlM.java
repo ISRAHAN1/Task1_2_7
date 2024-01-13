@@ -22,7 +22,6 @@ public class SlM {
                 result[f++] = secondArray[j];
 
             }
-
         for (int c = 0; c < result.length; c++) {
             for (int k = 0; k < result.length - c - 1; k++) {
                 if(result[k+1]<result[k]){

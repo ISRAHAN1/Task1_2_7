@@ -1,23 +1,14 @@
 package Task_1_6_10_;
-
-
-import java.util.Arrays;
-
+import java.lang.Math;
 public class Dif {
     public static void main(String[] args) {
-        String inputString= "hello";
+        String number="5";
+        System.out.print(parseAndSqrt(number));
     }
 
-    public static String padLeftZeros(String inputString, int length) {
-        if (inputString.length() >= length) {
-            return inputString;
-        }
-        StringBuilder sb = new StringBuilder();
-        while (sb.length() < length - inputString.length()) {
-            sb.append('0');
-        }
-        sb.append(inputString);
 
-        return sb.toString();
+    public static long parseAndSqrt(String number) {
+        long result=Long.parseLong(number);
+        return (long) Math.sqrt(Math.round(result));
     }
 }

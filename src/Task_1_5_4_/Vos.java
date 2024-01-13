@@ -10,10 +10,14 @@ public class Vos {
         System.out.print(Arrays.toString(a));
     }
     public static int[] getSubArrayBetween(int[] numbers, int start, int end) {
-        int[] result = new int[numbers.length];
-        for (int i=start;i <= end; i++) {
-
-                }
+        int k=0;
+        int[] result = new int[end-start];
+        for (int i=start;i<numbers.length; i++) {
+            result[k++] = result[i];
+        }
+        for (int j=end;j<numbers.length;j++){
+            result[k++]=result[j];
+        }
         return result;
     }
 }
