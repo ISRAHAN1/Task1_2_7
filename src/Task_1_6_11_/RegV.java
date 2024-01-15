@@ -5,19 +5,16 @@ import java.util.regex.Pattern;
 
 public class RegV {
     public static void main(String[] args) {
-        String email="Akobir_18@mail.ru";
+        String email="Akobir_18@yandex.ru";
         System.out.print(isGmailOrOutlook(email));
+
+
     }
     public static boolean isGmailOrOutlook(String email) {
-        boolean res;
-        Pattern pattern = Pattern.compile("@mail.ru");
-        Matcher matcher = pattern.matcher(email);
-        boolean result=matcher.matches();
-        if (result){
-            res=true;
-        }else{
-            res=false;
-        }
-        return res;
+        String emailPattern = "^[\\w!#$%&’*+/=?`{|}~^-]+(?:\\.[\\w!#$%&’*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,6}$";
+        Pattern p = Pattern.compile(emailPattern);
+        Matcher m = p.matcher(email);
+        return m.matches();
     }
+
 }
