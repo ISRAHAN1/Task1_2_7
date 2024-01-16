@@ -20,7 +20,6 @@ public class SlM {
         }
             for (int j = 0; j < secondArray.length; j++) {
                 result[f++] = secondArray[j];
-
             }
         for (int c = 0; c < result.length; c++) {
             for (int k = 0; k < result.length - c - 1; k++) {

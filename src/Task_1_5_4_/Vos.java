@@ -9,15 +9,31 @@ public class Vos {
         int[] a = getSubArrayBetween(numbers, start, end);
         System.out.print(Arrays.toString(a));
     }
+
     public static int[] getSubArrayBetween(int[] numbers, int start, int end) {
-        int k=0;
-        int[] result = new int[end-start];
-        for (int i=start;i<numbers.length; i++) {
-            result[k++] = result[i];
+        int k = 0;
+        int f=0;
+        for (int i = 0; i < numbers.length - 1; i++) {
+            if (numbers[i] >= start && numbers[i] <= end) {
+                k++;
+            }
         }
-        for (int j=end;j<numbers.length;j++){
-            result[k++]=result[j];
+       System.out.print(k);
+        int[]result=new int[k];
+        for(int j=0; j<numbers.length-1; j++){
+            if (numbers[j] >= start && numbers[j] <= end){
+                result[f++]=numbers[j];
+
+            }
+
+
+
+
+
         }
+
+
+
         return result;
     }
 }

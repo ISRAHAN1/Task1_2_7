@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class RegV {
     public static void main(String[] args) {
-        String email="Akobir_18@yandex.ru";
+        String email="Akobir@yandex.ru";
         System.out.print(isGmailOrOutlook(email));
 
 

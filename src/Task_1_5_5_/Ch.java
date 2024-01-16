@@ -2,7 +2,7 @@ package Task_1_5_5_;
 import java.util.Arrays;
 public class Ch {
     public static void main(String[] args) {
-        int[] numbers = {14,16,3,18,6,7};
+        int[] numbers = {14,16,3,18,6,7,3};
         int[] a = getArrayMiddle(numbers);
         System.out.println(Arrays.toString(a));
     }
