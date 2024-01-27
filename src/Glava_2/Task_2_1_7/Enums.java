@@ -1,4 +1,4 @@
-package Task_2_1_7;
+package Glava_2.Task_2_1_7;
 public class Enums {
     public static void main(String[]args){
         System.out.println(Day.SATURDAY.isWeekend("SATURDAY"));
