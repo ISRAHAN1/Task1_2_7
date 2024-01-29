@@ -3,9 +3,7 @@ public class CatDog {
     public static void main(String[]args){
         Cat cat=new Cat();
         Dog dog=new Dog();
-        cat.sayHello();
-        dog.sayHello();
-        dog.catchCat();
+        dog.catchCat(cat);
     }
     public static class Cat{
         public void sayHello(){
@@ -16,8 +14,11 @@ public class CatDog {
         public void sayHello(){
             System.out.println("Гав");
         }
-        public void catchCat(){
+        public void catchCat(Cat cat){
+            cat.sayHello();
+            sayHello();
             System.out.println("Кошка поймана");
+
         }
     }
 }

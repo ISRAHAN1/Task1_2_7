@@ -5,43 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="im change veriables.">
-      <change afterPath="$PROJECT_DIR$/src/Task_2_1_6/CatDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_2_1_7/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Day.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SCANNERRS/DOIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/SCANNERRS/DOIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_10/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_10/A12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_13/Okr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_13/Okr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_14/Maxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_14/Maxis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_4/Perm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_4/Perm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_6/MonitorsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_6/MonitorsCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_2_7/PriCee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_7/PriCee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_2/BukVa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_3_2/BukVa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_3/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_3_3/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_3_8/IspOWer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_3_8/IspOWer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_10/SWITCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_10/SWITCH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_11_/IFELSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_11_/IFELSE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_12_/TerN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_12_/TerN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_7/FactoRial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_7/FactoRial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_8/ReK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_8/ReK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_4_9/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_9/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_10_/SerM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_10_/SerM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_11_/PRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_11_/PRM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_12_/Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_12_/Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_3/Massive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_3/Massive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_4_/Vos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_4_/Vos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_5_/Ch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_5_/Ch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_6_/Raz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_6_/Raz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_7_/SlM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_7_/SlM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_5_9_/Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_9_/Arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_10_/Dif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_10_/Dif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_11_/RegV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_11_/RegV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_12_/TextR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_12_/TextR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_6_/STr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_6_/STr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_8_/pars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_8_/pars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_1_6_9_/PoLinD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_9_/PoLinD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_6/CatDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_6/CatDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Enums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +40,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Enums.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -85,24 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java/lesson.Java/Task 1.2.7&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/Task 1.2.7/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Java/lesson.Java/Task 1.2.7",
+    "onboarding.tips.debug.path": "C:/Java/Task 1.2.7/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java\lesson.Java\Task 1.2.7\src\Glava_1" />
@@ -170,22 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00003" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1699880071137</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1699880071137</updated>
-    </task>
-    <task id="LOCAL-00004" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1699882718352</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1699882718352</updated>
     </task>
     <task id="LOCAL-00005" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -563,7 +517,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705396867797</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706360702422</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1706360702423</updated>
+    </task>
+    <task id="LOCAL-00053" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1706360825351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1706360825351</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
