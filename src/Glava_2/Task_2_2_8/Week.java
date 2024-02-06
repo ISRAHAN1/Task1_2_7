@@ -7,34 +7,26 @@ public class Week {
         System.out.println(weekendCounts(days));
         System.out.println(weekdayCount(days));
     }
+
     public static boolean isWeekend(String dayName) {
-        boolean result;
         if (dayName.equals("Saturday") || dayName.equals("Sunday")) {
-            result = true;
+            return true;
         } else {
-            result = false;
+            return false;
         }
-        return result;
     }
+
     public static int weekendCounts(String[] days) {
         int k = 0;
-        for (int i = 0; i < days.length -1; i++) {
-          if(isWeekend(days[i])){
-              k++;
-          }
+        for (int i = 0; i <= days.length - 1; i++) {
+            if (isWeekend(days[i])) {
+                k++;
+            }
         }
         return k;
     }
-    public static int weekdayCount(String[]days){
-        int c=0;
-        for (int i=0;i <= days.length-1; i++){
-            if(!isWeekend(days[i])){
-                c++;
-            }
-        }
-        return c;
+    public static int weekdayCount(String[] days){
+        return days.length-weekendCounts(days);
     }
 }
-
-
 
