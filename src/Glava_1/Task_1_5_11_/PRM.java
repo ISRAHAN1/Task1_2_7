@@ -14,7 +14,6 @@ public class PRM {
             System.arraycopy(firstArray, 0, result, 0, firstArray.length);
             System.arraycopy(secondArray, 0, result, firstArray.length, secondArray.length);
 
-
             return result;
     }
     }

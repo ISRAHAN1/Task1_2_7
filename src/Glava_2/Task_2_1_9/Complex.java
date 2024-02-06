@@ -12,7 +12,6 @@ public class Complex {
         System.out.println(b.hashcode());
 
     }
-
     public static class ComplexNumber {
         private double re;
         private double im;
