@@ -2,8 +2,8 @@ package Glava_2.Task_2_1_8;
 
 public class Robots {
     public static void main(String[] args) {
-        Robot robot = new Robot(Direction.UP, 3, 0);
-        Robot.moveRobot(robot,0, 0);
+        Robot robot = new Robot(Direction.UP, 0, 0);
+        Robot.moveRobot(robot,3 , 0);
         robot.turnRight();
         robot.stepForward();
         robot.stepForward();
@@ -60,13 +60,16 @@ public class Robots {
             switch (direction) {
                 case RIGHT:
                     x++;
+                    break;
                 case DOWN:
                     y--;
+                    break;
                 case LEFT:
                     x--;
+                    break;
                 case UP:
                     y++;
-
+                    break;
             }
         }
 
@@ -78,22 +81,22 @@ public class Robots {
                 System.out.println("Робот не находится на заданных координатах");
             }
             if (robot.getX() != x) {
-                if (x < robot.getX()) {
-                    robot.direction=Direction.LEFT;
+                if (robot.getDirection() != Direction.LEFT) {
+                    robot.turnLeft();
                 } else {
-                    robot.direction=Direction.RIGHT;
-
+                    robot.turnRight();
                 }
                 while (robot.getX() != x) {
                     robot.stepForward();
                 }
-                if (robot.getY()!=y){
-                    if(y>robot.getY()){
-                        robot.direction=Direction.UP;
-                    }else{
-                        robot.direction=Direction.DOWN;
+                if (robot.getY() != y) {
+                    if (robot.getDirection() != Direction.DOWN) {
+                        robot.turnLeft();
+                    } else {
+                        robot.turnRight();
+
                     }
-                    while(robot.getY()!=y){
+                    while (robot.getY() != y) {
                         robot.stepForward();
                     }
                 }
