@@ -17,8 +17,9 @@ public class IspOWer {
         System.out.print("1024: ");
         System.out.println(isPowerOfTwo(1024));
     }
+
     public static boolean isPowerOfTwo(int result) {
-        return (Integer.bitCount(Math.abs(result)))==1;
+        return (Integer.bitCount(Math.abs(result))) == 1;
 
     }
 }

@@ -1,12 +1,9 @@
 package Glava_1.Task_1_4_8;
-import java.util.Scanner;
 import java.math.BigInteger;
 
 public class ReK {
     public static void main(String[] args) {
-        Scanner in=new Scanner(System.in);
-        System.out.println("Enter a number:");
-        int value= in.nextInt();
+        int value= 0;
         System.out.println(function(value));
     }
     public static BigInteger function(int value) {
