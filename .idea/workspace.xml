@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Task 1.2.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_10/Task_1_2_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_11_/Task_1_4_11_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_12_/Task_1_4_12_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_10_/Task_1_6_10_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_12_/Task_1_6_12_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/lesson.Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_2_10/A12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_10/A12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_3_8/IspOWer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_3_8/IspOWer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_4_7/FactoRial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_7/FactoRial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_4_8/ReK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_8/ReK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,14 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00012" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1699960034198</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1699960034198</updated>
     </task>
     <task id="LOCAL-00013" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -536,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707915393853</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708430001363</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1708430001364</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
