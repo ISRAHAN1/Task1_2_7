@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Task 1.2.7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_2_10/Task_1_2_10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_11_/Task_1_4_11_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_4_12_/Task_1_4_12_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_10_/Task_1_6_10_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_6_12_/Task_1_6_12_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_1/lesson.Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Home/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,14 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00013" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1700036181185</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1700036181185</updated>
     </task>
     <task id="LOCAL-00014" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -542,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708430001364</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1708715771195</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1708715771196</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
