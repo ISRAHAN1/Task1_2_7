@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Home/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_4_11/Lazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_4_11/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_4_9/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_4_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_3_11/Home/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Glava_2/Task_2_1_7/Enums.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Glava_2/Task_2_4_9/JavaStudent.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />

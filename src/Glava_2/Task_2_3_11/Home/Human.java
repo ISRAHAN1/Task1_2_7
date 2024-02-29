@@ -1,4 +1,4 @@
-package Home;
+package Glava_2.Task_2_3_11.Home;
 public class Human {
     public static void main(String[]args){
         Human s= new Human("0001","вчера было прохладно ", "я уже создавал ", "я рассказал про них");
