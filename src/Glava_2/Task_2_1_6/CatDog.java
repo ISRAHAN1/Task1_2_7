@@ -1,5 +1,4 @@
 package Glava_2.Task_2_1_6;
-
 public class CatDog {
     public static void main(String[] args) {
         Cat cat = new Cat();

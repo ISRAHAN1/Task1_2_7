@@ -1,5 +1,6 @@
 package Glava_2.Task_2_4_11;
 public class Lazy {
+
     public static class Student {
         protected final String studying;
 
@@ -21,11 +22,11 @@ public class Lazy {
 
         public LazyStudent() {
             super();
-            this.studying = "Прохожу курс по java";
+            this.studying ="Cегодня не учусь,мне лень" ;
         }
         @Override
         public void study() {
-            System.out.println("Cегодня не учусь,мне лень");
+            System.out.println(studying);
         }
     }
 }

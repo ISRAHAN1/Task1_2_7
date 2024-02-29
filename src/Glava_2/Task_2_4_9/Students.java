@@ -1,7 +1,5 @@
 package Glava_2.Task_2_4_9;
 
-import Glava_2.Task_2_4_11.Lazy;
-
 public class Students {
     public static class Student {
         protected final String studying;
