@@ -45,14 +45,17 @@ public class Robot {
             case RIGHT:
                 direction=Direction.UP;
                 break;
-            case DOWN:
+            case UP:
                 direction=Direction.RIGHT;
                 break;
             case LEFT:
                 direction=Direction.DOWN;
                 break;
-            case UP:
+            case DOWN:
                 direction=Direction.LEFT;
+
+
+
 
         }
     }
