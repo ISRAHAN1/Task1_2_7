@@ -54,9 +54,6 @@ public class Robot {
             case DOWN:
                 direction=Direction.LEFT;
 
-
-
-
         }
     }
 
