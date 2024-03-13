@@ -4,10 +4,14 @@ public class Alien {
         AsciiCharSequence result = new AsciiCharSequence(new byte[]{72,69, 76,76,79});
         System.out.println(result.subSequence(0,5));
         System.out.println(result.length());
+        System.out.println(result.charAt(0));
+        System.out.println(result.charAt(1));
+        System.out.println(result.charAt(2));
+        System.out.println(result.charAt(3));
+        System.out.println(result.charAt(4));
     }
     public static class AsciiCharSequence implements CharSequence {
         private final byte[] bytes;
-
         AsciiCharSequence(byte[] bytes) {
             this.bytes = bytes;
         }

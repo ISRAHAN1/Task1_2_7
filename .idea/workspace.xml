@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_6/CharSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/KeywordAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/NegativeTextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/SpamAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/TextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/TooLongTextAnalyzer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_1_8/Robots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_5_6/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_6/Alien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_2/Task_2_5_7/Find.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,7 @@
       <list>
         <option value="package-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -144,14 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00020" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1701878875738</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1701878875738</updated>
     </task>
     <task id="LOCAL-00021" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -537,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709801833624</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1710073163821</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1710073163822</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
