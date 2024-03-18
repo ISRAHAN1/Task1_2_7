@@ -8,13 +8,12 @@ public class TooLongTextAnalyzer implements TextAnalyzer {
     }
 
     public Label processText(String text) {
-        StringBuilder stringBuilder = new StringBuilder(text);
         for (int i = 0; i < text.length(); i++) {
-            if (stringBuilder.substring(i).equals(" ")) {
-                stringBuilder.deleteCharAt(i);
+            if (text.substring(i).equals(" ")) {
+                text.charAt(i);
             }
         }
-        if (stringBuilder.length() > maxLength) {
+        if (text.length() > maxLength) {
             return Label.TOO_LONG;
         }
         return Label.OK;

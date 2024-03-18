@@ -1,8 +1,11 @@
 package Glava_2.Task_2_5_6;
+
+import java.util.Arrays;
+
 public class Alien {
     public static void main(String[] args) {
         AsciiCharSequence result = new AsciiCharSequence(new byte[]{72,69, 76,76,79});
-        System.out.println(result.subSequence(0,5));
+        System.out.println(result.subSequence(0, 5));
         System.out.println(result.length());
         System.out.println(result.charAt(0));
         System.out.println(result.charAt(1));
@@ -25,11 +28,7 @@ public class Alien {
         }
         @Override
         public AsciiCharSequence subSequence(int start, int end) {
-            byte[] array = new byte[end - start];
-            for (int i = 0; i < end - start; i++) {
-                array[i] = (byte) this.charAt(start + i);
-            }
-            return new AsciiCharSequence(array);
+            return new AsciiCharSequence(Arrays.copyOfRange(bytes, start, end));
         }
         @Override
         public String toString() {
