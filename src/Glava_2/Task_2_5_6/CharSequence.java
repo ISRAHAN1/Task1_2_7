@@ -4,5 +4,5 @@ public interface CharSequence {
 
     char charAt(int a);
 
-     Alien.AsciiCharSequence subSequence(int b, int c);
+     Alien.AsciiCharSequence subSequence(int start, int end);
 }
