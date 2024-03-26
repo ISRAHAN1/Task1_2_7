@@ -4,29 +4,15 @@ import java.io.File;
 
 public class Expect {
     public static void main(String[] args) throws MyNewException {
-        testExp(10);
-
-
-
+        testExp();
     }
-
-    public static void testExp(int value) throws MyNewException {
-        if (value > 0) {
-            throw new MyNewException(10);
+    public static void testExp() throws MyNewException {
+            throw new MyNewException();
         }
     }
-}
+
 class MyNewException extends Exception {
-    private final int number;
-
-    public MyNewException(int number) {
-        this.number = number;
     }
-
-    public int getNumber() {
-        return number;
-    }
-}
 
 
 
