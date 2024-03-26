@@ -7,16 +7,21 @@ public enum Day {
     FRIDAY("Пятница", false),
     SATURDAY("Суббота", true),
     SUNDAY("Воскресенья", true);
+
     private String name;
     private boolean result;
+
     Day(String name, boolean result) {
         this.name = name;
         this.result = result;
     }
+
     public boolean isWeekend() {
         return result;
     }
+
     public String getRusName() {
         return name;
     }
 }
+
