@@ -1,11 +1,14 @@
 package Glava_1.Task_1_5_5_;
+
 import java.util.Arrays;
+
 public class Ch {
     public static void main(String[] args) {
-        int[] numbers = {14,16,3,18,6,7,3};
+        int[] numbers = {14, 16, 3, 18, 6, 7, 5};
         int[] a = getArrayMiddle(numbers);
         System.out.println(Arrays.toString(a));
     }
+
     public static int[] getArrayMiddle(int[] numbers) {
         if (numbers.length > 2) {
             if (numbers.length % 2 == 0) {
@@ -22,7 +25,7 @@ public class Ch {
             return numbers;
         }
     }
-    }
+}
 
 
 

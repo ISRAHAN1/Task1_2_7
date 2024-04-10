@@ -12,6 +12,7 @@ public class Alien {
         System.out.println(result.charAt(2));
         System.out.println(result.charAt(3));
         System.out.println(result.charAt(4));
+
     }
     public static class AsciiCharSequence implements CharSequence {
         private final byte[] bytes;

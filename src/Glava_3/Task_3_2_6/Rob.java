@@ -1,6 +1,6 @@
-package Glava_3.Task_3_2_4;
+package Glava_3.Task_3_2_6;
 
-public class Banks {
+public class Rob {
     public static void main(String[]args){
 
     }

@@ -6,11 +6,8 @@ public class Program {
         sam.display();
         Client bob = new Client("Bob", "Leman Brothers");
         bob.display();
-
-
     }
 }
-
 abstract class Person {
 
     private final String name;

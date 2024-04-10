@@ -2,6 +2,7 @@ package Glava_3.Task_3_1_5;
 
 public class CallerClass {
     public static void main(String[]args){
+        getCallerClassAndMethodName();
         System.out.println(getCallerClassAndMethodName());
         anotherMethod();
 

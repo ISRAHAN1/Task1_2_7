@@ -23,17 +23,8 @@ public class Vos {
         for(int j=0; j<numbers.length-1; j++){
             if (numbers[j] >= start && numbers[j] <= end){
                 result[f++]=numbers[j];
-
             }
-
-
-
-
-
         }
-
-
-
         return result;
     }
 }

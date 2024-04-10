@@ -4,6 +4,7 @@ public class SlM {
     public static void main(String[] args) {
         int[] firstArray = new int[]{1, 3, 7, 5};
         int[] secondArray = new int[]{8, 4, 2, 4};
+
         int[] a = mergeAndSort(firstArray, secondArray);
         int res = 0;
         for (int element : a) {

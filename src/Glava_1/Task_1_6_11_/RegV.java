@@ -11,7 +11,7 @@ public class RegV {
 
     }
     public static boolean isGmailOrOutlook(String email) {
-        String emailPattern = "^[\\w!#$%&’*+/=?`{|}~^-]+(?:\\.[\\w!#$%&’*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,6}$";
+        String emailPattern ="A.+?u";
         Pattern p = Pattern.compile(emailPattern);
         Matcher m = p.matcher(email);
         return m.matches();

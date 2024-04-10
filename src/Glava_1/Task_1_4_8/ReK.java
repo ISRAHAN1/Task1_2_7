@@ -3,7 +3,7 @@ import java.math.BigInteger;
 
 public class ReK {
     public static void main(String[] args) {
-        int value= 0;
+        int value= 5;
         System.out.println(function(value));
     }
     public static BigInteger function(int value) {
