@@ -1,13 +1,23 @@
 package Glava_3.Task_3_2_4;
 
 public class BankClient  {
-    private int history;
+     boolean BadCreditHistory;
+     boolean ProblemWithLaw;
 
-    public int getHistory() {
-        return history;
+
+    public boolean isBadCreditHistory() {
+        return BadCreditHistory;
     }
 
-    public void setHistory(int history) {
-        this.history = history;
+    public boolean isProblemWithLaw() {
+        return ProblemWithLaw;
     }
+    BankClient(boolean  BadCreditHistory, boolean ProblemWithLaw){
+        this.BadCreditHistory=BadCreditHistory;
+        this.ProblemWithLaw=ProblemWithLaw;
+    }
+
 }
+
+
+

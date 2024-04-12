@@ -1,13 +1,13 @@
 package Glava_3.Task_3_2_4;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws BadCreditHistoryException, ProblemWithLawException {
 
-        BankClient bankClient = new BankClient();
-        BankWorker bankWorker = new Worker();
-        Worker worker = new Worker();
+        BankClient bankClient = new BankClient(true, true);
+        BankWorker bankWorker = new Bank();
+        Bank worker = new Bank();
         worker.getCreditForClient(bankWorker, bankClient);
-
+        worker.checkClientForCredit(bankClient);
     }
 
 }
