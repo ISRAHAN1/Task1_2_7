@@ -1,6 +1,4 @@
 package Glava_3.Task_3_2_6;
-
-
 public class RobotConnectionException extends RuntimeException {
 
     public RobotConnectionException(String message) {

@@ -1,5 +1,4 @@
 package Glava_3.Task_3_2_4;
-
 public class Main {
     public static void main(String[] args) throws BadCreditHistoryException, ProblemWithLawException {
 
@@ -9,5 +8,4 @@ public class Main {
         worker.getCreditForClient(bankWorker, bankClient);
         worker.checkClientForCredit(bankClient);
     }
-
 }
