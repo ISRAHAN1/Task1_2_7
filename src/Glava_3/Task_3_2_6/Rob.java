@@ -1,20 +1,18 @@
 package Glava_3.Task_3_2_6;
-
 public class Rob {
-    public static void main(String[]args){
+    public static void main(String[] args) {
+        Robot robot = new Robot();
+        robot.getConnection();
+        robot.close();
+        robot.moveRobotTo(10,12);
+
 
     }
-    public static class Robot implements RobotConnectionManager, RobotConnection {
+}
+     class Robot implements RobotConnectionManager, RobotConnection {
         int x;
         int y;
 
-
-
-        public Robot(int x, int y) {
-            this.x = x;
-            this.y = y;
-
-        }
         public int getX() {
             return x;
         }
@@ -42,4 +40,4 @@ public class Rob {
         return null;
     }
 }
-}
+
