@@ -5,8 +5,6 @@ public class Rob {
         RobotConnection robotConnection =robot.getConnection();
         robotConnection.close();
         robotConnection.moveRobotTo(10, 12);
-
-
         }
     }
 

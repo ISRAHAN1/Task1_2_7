@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_2_5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_2_6/Chet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_3_6/Primer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_3_7/Primer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" afterDir="false" />
     </list>
@@ -81,6 +85,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java\lesson.Java\Task 1.2.7\src\Glava_1" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Path" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="A12" type="Application" factoryName="Application" nameIsGenerated="true">
