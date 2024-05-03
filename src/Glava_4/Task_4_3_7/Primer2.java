@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Primer2 {
     public static void main(String[] args) throws IOException {
        Scanner scanner = new Scanner(System.in);
-       String[] array= scanner.nextLine().split("");
+       String[] array= scanner.nextLine().split(" ");
        double sum=0;
 
        for(int i=0; i<array.length; i++){
