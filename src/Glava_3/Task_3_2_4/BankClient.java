@@ -4,6 +4,10 @@ public class BankClient  {
      boolean BadCreditHistory;
      boolean ProblemWithLaw;
 
+    BankClient(boolean  BadCreditHistory, boolean ProblemWithLaw){
+        this.BadCreditHistory=BadCreditHistory;
+        this.ProblemWithLaw=ProblemWithLaw;
+    }
 
     public boolean isBadCreditHistory() {
         return BadCreditHistory;
@@ -12,10 +16,7 @@ public class BankClient  {
     public boolean isProblemWithLaw() {
         return ProblemWithLaw;
     }
-    BankClient(boolean  BadCreditHistory, boolean ProblemWithLaw){
-        this.BadCreditHistory=BadCreditHistory;
-        this.ProblemWithLaw=ProblemWithLaw;
-    }
+
 
 }
 
