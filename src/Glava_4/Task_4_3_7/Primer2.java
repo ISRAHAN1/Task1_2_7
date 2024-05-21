@@ -12,7 +12,6 @@ public class Primer2 {
            try {
                res=Double.parseDouble(array[i]);
            }catch (RuntimeException ignore){
-
            }
            if(res!=0)
                sum=sum+res;

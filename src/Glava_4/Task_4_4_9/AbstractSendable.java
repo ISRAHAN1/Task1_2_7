@@ -1,6 +1,6 @@
 package Glava_4.Task_4_4_9;
 
-public abstract class AbstractSendable implements SendAble {
+public  abstract class AbstractSendable implements SendAble {
     protected final String from;
     protected final String to;
 

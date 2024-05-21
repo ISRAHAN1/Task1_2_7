@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="" />
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_3_7/Primer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_3_7/Primer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,14 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00040" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1703254869172</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1703254869172</updated>
     </task>
     <task id="LOCAL-00041" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -540,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716285533646</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716286296816</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1716286296816</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

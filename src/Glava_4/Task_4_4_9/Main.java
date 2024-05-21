@@ -8,13 +8,13 @@ public class Main {
     public static final String BANNED_SUBSTANCE = "banned substance";
     public static void main(String[]args) {
         MailService spy = new Spy(Logger.getLogger(Class.class.getName()));
-        MailService thief = new Thief(10);
+        Thief thief = new Thief(10);
         MailService inspector = new Inspector();
-        MailService[] mailServices = {spy, thief, inspector};
+        MailService[]mailServices=new MailService[]{spy,thief,inspector};
         MailMessage mail1 = new MailMessage("Romeo", "Juliet", "I love you!");
         MailMessage mail2 = new MailMessage("Austin Powers", "James Bond", "Big secret!");
-        MailPackage mail3 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 15));
-        MailPackage mail4 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 25));
+        MailPackage mail3 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 55));
+        MailPackage mail4 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 55));
         MailPackage mail5 = new MailPackage("Austin Powers", "James Bond", new Package("weapons", 5));
 
         UntrustworthyMailWorker umw = new UntrustworthyMailWorker(mailServices);
@@ -44,7 +44,7 @@ public class Main {
             System.out.println(re.getMessage());
         }
 
-        System.out.println("Thief have stolen $" + ((Thief)thief).getStolenPrice() + "!");
+        System.out.println("Thief have stolen $" + thief.getStolenPrice() + "!");
     }
     }
 
