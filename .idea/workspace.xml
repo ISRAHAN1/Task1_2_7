@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/IllegalPackageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/RealMailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/SendAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/StolenPackageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/UntrustworthyMailWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00039" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1703244686563</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1703244686563</updated>
     </task>
     <task id="LOCAL-00040" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -558,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714995733201</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716285533646</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285533646</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

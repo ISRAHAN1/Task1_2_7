@@ -44,7 +44,7 @@ public class Main {
             System.out.println(re.getMessage());
         }
 
-        System.out.println("Thief have stolen $" + thief+ "!");
+        System.out.println("Thief have stolen $" + ((Thief)thief).getStolenPrice() + "!");
     }
     }
 
