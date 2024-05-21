@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/IllegalPackageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/RealMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/SendAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/StolenPackageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/UntrustworthyMailWorker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_4/BankClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_4/BankClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_6/Rob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +83,15 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Java/lesson.Java/Task 1.2.7&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Java/Task 1.2.7/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Glava_4.Task_4_4_9" />
       <recent name="Glava_3.Task_3_2_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -150,14 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00038" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1703171416840</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1703171416840</updated>
     </task>
     <task id="LOCAL-00039" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -543,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714721687921</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1714995733200</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1714995733201</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
