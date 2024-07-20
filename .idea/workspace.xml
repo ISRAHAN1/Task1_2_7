@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
+    <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="im change veriables.">
+      <change afterPath="$PROJECT_DIR$/src/Glava_1/Transition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_5_1_11/GeNer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_3_3/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_3_3/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_5_10_/SerM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_10_/SerM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_1/Task_1_5_6_/Raz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_1/Task_1_5_6_/Raz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_3/Task_3_2_5/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_3/Task_3_2_5/Cars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_3_7/Primer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_3_7/Primer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/AbstractSendable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Inspector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_8/Logg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_4/Task_4_4_9/Spy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +80,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -154,14 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00041" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1703330998212</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1703330998212</updated>
     </task>
     <task id="LOCAL-00042" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -547,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716286296816</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1716296563684</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1716296563685</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -577,6 +582,16 @@
           <url>jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Object.java</url>
           <line>14</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Glava_1/Task_1_5_10_/SerM.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Glava_1/Task_1_5_11_/PRM.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

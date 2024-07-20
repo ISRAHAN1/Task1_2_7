@@ -11,7 +11,8 @@ public class Primer2 {
            double res=0;
            try {
                res=Double.parseDouble(array[i]);
-           }catch (RuntimeException ignore){
+           }catch (ArrayIndexOutOfBoundsException e) {
+               System.out.println(e.getMessage());
            }
            if(res!=0)
                sum=sum+res;

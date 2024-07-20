@@ -8,5 +8,6 @@ public class Logg {
     public static void main(String[] args) {
         logger.log(Level.INFO,"Все Хорошо");
         logger.warning("Произошла ошибка");
+
     }
 }

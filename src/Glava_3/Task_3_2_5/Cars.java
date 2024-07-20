@@ -5,7 +5,6 @@ public class Cars {
         try(Car car=new Car()){
             drive();
         }catch (RuntimeException ignore){
-
         }
     }
     private static void drive(){

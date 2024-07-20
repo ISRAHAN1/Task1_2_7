@@ -15,7 +15,7 @@ public class Main {
         MailMessage mail2 = new MailMessage("Austin Powers", "James Bond", "Big secret!");
         MailPackage mail3 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 55));
         MailPackage mail4 = new MailPackage("Romeo", "Juliet", new Package("Flowers", 55));
-        MailPackage mail5 = new MailPackage("Austin Powers", "James Bond", new Package("weapons", 5));
+        MailPackage mail5 = new MailPackage("Austin Powers", "James Bond", new Package("weapons", 6));
 
         UntrustworthyMailWorker umw = new UntrustworthyMailWorker(mailServices);
         try {
