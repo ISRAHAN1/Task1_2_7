@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e5b21d2-ab52-43a5-b9d6-d61c0331d2be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_5_1_12/GeNer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_5_1_11/GeNer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_5/Task_5_1_11/GeNer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_5_1_12/GeNer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Glava_5/Task_5_1_12/GeNer2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java\lesson.Java\Task 1.2.7\src\Glava_1" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Glava_5.Task_5_1_11" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -150,14 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699604552786</updated>
-    </task>
-    <task id="LOCAL-00043" summary="im change veriables.">
-      <option name="closed" value="true" />
-      <created>1703680733464</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1703680733464</updated>
     </task>
     <task id="LOCAL-00044" summary="im change veriables.">
       <option name="closed" value="true" />
@@ -543,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721465718119</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="im change veriables.">
+      <option name="closed" value="true" />
+      <created>1721466510947</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1721466510947</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,5 +1,4 @@
-package Task_5_1_12;
-
+package Glava_5.Task_5_1_12;
 public class GeNer2 {
     public static void main(String[]args){
     }
@@ -8,6 +7,5 @@ public class GeNer2 {
         public static <T> Box1 <T> getBox1(){
             return new Box1<>();
         }
-
     }
 }
